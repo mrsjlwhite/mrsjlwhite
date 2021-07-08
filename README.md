@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZAaaCK5RhUWxG/giphy.gif" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif" width="500" height="320"/>
 
-# My name is Jeslyn 👋🏻
+# Hi! 👋🏻 my name is Jeslyn 🌿
 
 <br/>
 
