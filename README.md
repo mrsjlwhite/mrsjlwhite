@@ -38,9 +38,9 @@
 
 ---
 
-<img align="left" alt="Jeslyn's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslynwhite&show_icons=true&theme=dracula" />
+<img align="left" alt="Jeslyn's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsjlwhite&show_icons=true&theme=dracula" />
 
-<img align="left" alt="Jeslyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeslynwhite&show_icons=true&theme=dracula" />
+<img align="left" alt="Jeslyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrsjlwhite&show_icons=true&theme=dracula" />
 <!-- src="https://github-readme-stats.vercel.app/api?username=jeslynwhite&show_icons=true&theme=dracula&hide=stars,issues"  -->
 
 [linkedin]: https://linkedin.com/in/jeslyn-white
