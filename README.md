@@ -10,8 +10,8 @@
 
 <!-- - ✍🏻 You can find my projects in my portfolio -->
 - 🔨 Lang & Framework: C#, EF, Javascript, Angular
-- 💭 I’m interested in full stack web development
-- 🌱 I’m currently learning TypeScript and Angular 10
+- 💭 I’m interested in web and mobile development
+- 🌱 I’m currently learning React & React Native
 - 👷🏻‍♀️ I’m looking to create attractive user friendly applications
 - 📫 Reach me: @[linkedin]
 
