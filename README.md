@@ -8,7 +8,7 @@
 > weekend adventurer<img src="https://emojis.slackmojis.com/emojis/images/1617958367/28774/roadtrip.gif?1617958367" width="30"/>
 > wanna-be gamer<img src="https://emojis.slackmojis.com/emojis/images/1622013076/41449/gameboy.gif?1622013076" width="30"/>
 > self-taught developer<img src="https://emojis.slackmojis.com/emojis/images/1468493014/660/omglol.gif?1468493014" width="30"/>
-> coffee addict<img src="https://slackmojis.com/emojis/10024-coffee" width="30"/>
+> coffee addict ☕️
 
 <br/>
 
