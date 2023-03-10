@@ -14,9 +14,9 @@
 
 <!-- - ✍🏻 You can find my projects in my portfolio -->
 ## A lil about me
-- 🔨 Lang & Framework: C#, EF, Javascript, React
+- 🔨 Lang & Framework: C#, EF, Javascript, React, TypeScript
 - 💭 I’m interested in web and mobile development
-- 🌱 I’m currently learning React & React Native & TypeScript
+<!-- - 🌱 I’m currently focusing on furthering my React & Sass skills -->
 - 👷🏻‍♀️ I’m looking to create attractive user friendly applications
 - 📫 Reach me: @[linkedin]
 
