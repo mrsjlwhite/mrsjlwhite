@@ -4,7 +4,7 @@
 
 <br/>
 
-> I'm an
+> I'm a
 > weekend adventurer<img src="https://emojis.slackmojis.com/emojis/images/1617958367/28774/roadtrip.gif?1617958367" width="30"/>
 > wanna-be gamer<img src="https://emojis.slackmojis.com/emojis/images/1622013076/41449/gameboy.gif?1622013076" width="30"/>
 > self-taught developer<img src="https://emojis.slackmojis.com/emojis/images/1468493014/660/omglol.gif?1468493014" width="30"/>
@@ -16,7 +16,7 @@
 ## A lil about me
 - 🔨 Lang & Framework: C#, EF, Javascript, React, TypeScript
 - 💭 I’m interested in web and mobile development
-<!-- - 🌱 I’m currently focusing on furthering my React & Sass skills -->
+- 🌱 I’m currently learning Next.js
 - 👷🏻‍♀️ I’m looking to create attractive user friendly applications
 - 📫 Reach me: @[linkedin]
 
