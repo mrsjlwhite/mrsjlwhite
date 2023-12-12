@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif" width="500" height="320"/>
 
-# Hi!<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> My name is Jeslyn but feel free to call me Jes
+# Hi!<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> My name is Jeslyn
 
 <br/>
 
