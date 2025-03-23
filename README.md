@@ -15,9 +15,9 @@
 <!-- - ✍🏻 You can find my projects in my portfolio -->
 ## A lil about me <img src="https://emojis.slackmojis.com/emojis/images/1643514803/8175/pikachu_dance.gif?1643514803" width="30"/>
 - <img src="https://emojis.slackmojis.com/emojis/images/1468493014/660/omglol.gif?1468493014" width="25"/> Self-taught developer `est. 2017`
-- 🧰 Lang & Frameworks: C#, Javascript, React, Angular, Vue, TypeScript
+- 🧰 Lang & Frameworks: C#, Javascript, React, Next, Angular, Vue, TypeScript
 - 💭 I’m interested in web & mobile full stack development
-- 🌱 I’m currently learning Next.js & refreshing on Angular
+- 🌱 I’m currently learning Tailwind CSS & continuing Next.js growth
 - 👷🏻‍♀️ I enjoy building beautiful user friendly applications
 - 👩🏻‍💻 Checkout my [website]
 - 📫 Reach me @[linkedin]
